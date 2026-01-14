@@ -2,6 +2,8 @@
 
 [Free Python Course](https://industry-python.thinkific.com/products/courses/industry-projects-with-python)
 
+<img src="logo.png" width="200px" alt="industry python logo">
+
 A Quarto-based blog for Industry Python content.
 
 ## Adding a New Blog Post
