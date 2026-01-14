@@ -6,14 +6,24 @@ about:
   links:
     - icon: twitter
       text: Twitter
-      href: https://twitter.com
+      href: https://twitter.com/oppkey
     - icon: linkedin
       text: LinkedIn
-      href: https://linkedin.com
+      href: https://www.linkedin.com/company/oppkey/
     - icon: github
       text: Github
-      href: https://github.com
+      href: https://github.com/oppkey
 
 ---
 
-About this blog
+This blog is for the free Industry Python course is for high-school students and early CS learners
+who want to become internship- and interview-ready by building real Python applications. 
+
+You’ll learn through interactive, visual apps where objects, lists, dictionaries, and
+event handlers drive visible behavior, and projects grow from small scripts into structured
+applications you can extend. As you progress, you’ll pick up industry-aligned patterns like
+state management, separation of concerns, async programming, and basic deployment workflows.
+In later chapters, you’ll build a real AI chat app using a local language model with
+streaming responses. 
+
+By the end, you’ll have portfolio-ready projects you can demo, explain, and defend.

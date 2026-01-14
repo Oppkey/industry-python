@@ -1,5 +1,5 @@
 ---
-title: "industry-python-blog"
+title: "Industry Python Blog"
 listing:
   contents: posts
   sort: "date desc"
