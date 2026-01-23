@@ -1,8 +1,8 @@
 ---
-title: "Industry Python Extra Supervised Projects"
+title: "Industry Python Special Projects with Mentorship"
 author: "Craig Oda"
 date: "2026-01-22"
-categories: [uv, deployment]
+categories: [uv, deployment, PyTorch, vector database, projects]
 ---
 
 A small group of elite students are working with Jesse Casman, president of Oppkey, in
