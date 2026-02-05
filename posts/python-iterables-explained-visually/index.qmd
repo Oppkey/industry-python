@@ -22,6 +22,8 @@ You’ll learn:
 * Why strings behave like immutable sequences
 * How type checking with mypy can catch data type mistakes
 
+Full free course called [Industry Projects with Python](https://industry-python.thinkific.com/products/courses/industry-projects-with-python) covers Python iterables and much more. Full code for each section is available for download.
+
 Before we get into the “visual” part, here’s the quick mental model you should keep in your head:
 
 ### LIST — A list is ordered, you can mutate it, and duplicates are fine.
