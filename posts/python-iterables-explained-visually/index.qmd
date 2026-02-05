@@ -2,7 +2,7 @@
 title: "Python Iterables Explained Visually (Lists, Tuples & Sets)"
 author: "Oppkey Staff"
 date: "2026-02-05"
-image: cheat-sheet.png
+image: staff-one-row.png
 categories: [tips, iterables]
 ---
 
@@ -46,7 +46,7 @@ In the code below, we build a “staff party” guest list to make the behavior 
 
 ## How To Use
 
-![](dropdown.png)
+![](staff-one-row.png)
 
 You’re implementing a small demo that:
 
