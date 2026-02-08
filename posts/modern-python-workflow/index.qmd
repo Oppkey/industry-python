@@ -11,7 +11,7 @@ https://dzone.com/articles/building-modern-full-stack-python-applications-mvc
 
 ---
 
-# MVC Architecture Still Powers Modern Python Applications
+## MVC Architecture Still Powers Modern Python Applications
 
 Model-View-Controller (MVC) separates applications into three layers:
 
@@ -25,7 +25,7 @@ Frameworks like FastAPI and Flet make it easy to implement clean MVC architectur
 
 ---
 
-# Python Now Supports the Entire Full Stack
+## Python Now Supports the Entire Full Stack
 
 Python is widely used in AI development and is increasingly used across the full application stack.
 
@@ -39,7 +39,7 @@ Using Python across the stack reduces complexity and allows business logic to be
 
 ---
 
-# Modern Tooling Makes Python Enterprise-Ready
+## Modern Tooling Makes Python Enterprise-Ready
 
 Recent tools have significantly improved Python development:
 
@@ -52,7 +52,7 @@ These tools improve reliability and make Python suitable for large production sy
 
 ---
 
-# Example Architecture: FastAPI + Flet
+## Example Architecture: FastAPI + Flet
 
 A clean MVC structure might look like:
 
@@ -68,12 +68,12 @@ This design allows developers to swap UI frameworks without changing backend log
 
 ---
 
-# Conclusion
+## Conclusion
 
 Python has evolved into a complete platform for full-stack and AI-driven applications. Combined with MVC architecture and modern tooling, developers can build scalable, maintainable, enterprise-ready systems entirely in Python.
 
 ---
 
-# Free Python Course
+## Free Python Course
 
 [Industry Python](https://industry-python.thinkific.com/products/courses/industry-projects-with-python)
