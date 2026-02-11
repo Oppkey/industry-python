@@ -6,7 +6,9 @@
 
 A Quarto-based blog for Industry Python content.
 
-## Adding a New Blog Post
+## Adding a New Blog Post for Staff with write access to repo
+
+NOTE: if you are a volunteer or member of the community without write access, you must make a fork and make a pull request from that fork.
 
 To add a new blog post, follow these steps:
 
