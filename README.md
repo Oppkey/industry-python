@@ -6,6 +6,9 @@
 
 A Quarto-based blog for Industry Python content.
 
+IMPORTANT: Contribution steps were written for Oppkey staff.  If you are a community contributor or volunteer, you must follow
+a different process.  We are making a video on how to make a pull request from a fork.  Content jcasman@oppkey.com for more information.
+
 ## Adding a New Blog Post for Staff with write access to repo
 
 NOTE: if you are a volunteer or member of the community without write access, you must make a fork and make a pull request from that fork.
@@ -77,6 +80,8 @@ Reference images in your post using relative paths:
 
 ### 6. Preview Locally
 
+NOTE: to preview locally, you must have Quarto installed on your local computer.
+
 To preview your blog locally, run:
 
 ```bash
@@ -97,6 +102,9 @@ git commit -m "Add new post: Your Post Title"
 ```
 
 1. **Push to GitHub:**
+
+NOTE: you will not be able to push to the upstream repo unless you have write access to it.  You must push to your own fork and then
+make a pull request.
 
 ```bash
 git push
