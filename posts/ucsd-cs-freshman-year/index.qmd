@@ -1,1 +1,167 @@
+---
+title: "My Experience Taking Computer Science Courses at University of California, San Diego — So Far"
+author: "Aryhanna Pham"
+date: "2026-02-13"
+categories: [student, education]
+---
+University of California, San Diego. Winter Quarter 2026\. Freshman year.
 
+I came into UCSD expecting computer science/artificial intelligence to be intense and competitive, but mostly in a “late nights coding cool apps” kind of way. What surprised me is how structured and math heavy the first year actually is, and how fast the 10 week quarter system moves as I am used to a semester system. It’s not just about programming. It’s about learning how to think and adapt to college life.
+
+I’m currently majoring in Artificial Intelligence through the Computer Science & Engineering department at UCSD, and here’s what freshman year has looked like so far.
+
+---
+
+## 1\) My Freshman-Year CS Plan (Required Courses)
+
+The department publishes a sample four year plan for AI majors. Obviously, it doesn’t account for AP credit or personal adjustments, but it gives a solid structure. Freshman year is mostly lower division foundations: Math, Intro Programming, and General Education.
+
+Fall Quarter (Last Year’s Quarter):
+
+* MATH 20A – Calculus for Science & Engineering (limits, derivatives, applications).  
+* CSE 8A or CSE 11 – Intro to Programming (Python or Java track; structured labs \+ programming assignments).  
+* CSE Lower Division Elective – Varies; sometimes discrete structures prep.  
+* DEI Requirement Course – Diversity-focused GE course.
+
+Winter Quarter (Current Quarter):
+
+* MATH 20B – Integral calculus and sequences/series.  
+* CSE 11 – Accelerated intro to programming (Java; object-oriented focus).  
+* CSE 25 – Introduction to Discrete Mathematics (logic, proofs, combinatorics).  
+* CCE 1 – Critical Community Engagement writing course (Eighth College requirement).
+
+Spring Quarter (Planned Quarter):
+
+* MATH 20C – Multivariable calculus.  
+* CSE 12 – Data Structures (arrays, linked lists, trees, complexity).  
+* CSE 20 – Discrete Math for CS (proofs, sets, functions, induction).  
+* Breadth GE
+
+I’ve touched some classes in the sample four year plan, though I had to take into account what I’ve done in high school and what I needed to do again due to not knowing a topic too well. Even though this is the AI major, freshman year doesn’t feel “AI” at all yet. It’s mostly math and core CS foundations. That surprised me. I thought I’d be touching machine learning earlier.
+
+---
+
+## 2\) Which Classes Are Known as Hard
+
+At UCSD, a few lower-division classes already have reputations.
+
+### CSE 12 (Data Structures)
+
+This is considered the first “real” CS weeder class.
+
+* Time commitment: 10–15+ hours per week outside lecture.  
+* Why it’s hard: Programming projects can be long and require debugging complex logic. You also start analyzing runtime formally (Big-O), which adds a conceptual layer.  
+* Exams: Often conceptual and time pressured.  
+* What helps: Starting projects early, going to office hours, and having a study group. Waiting until the weekend before a deadline is basically guaranteed stress.
+
+### CSE 20 / CSE 25 (Discrete Math)
+
+This one is hard in a different way. I haven’t taken this class though I do expect these things:
+
+* Time commitment: 6–10 hours per week, depending on proof comfort.  
+* Why it’s hard: Proof writing. Many freshmen have never written formal mathematical proofs before.  
+* Pain points: Induction, logic notation, combinatorics.  
+* What I think would help: Doing extra practice proofs, reading solutions carefully, and not skipping lecture examples. 
+
+### Math 20 Series (Calculus)
+
+Not “CS hard,” but conceptually demanding and fast-paced.
+
+* The quarter system means midterms come quickly.  
+* Falling behind even one week makes it hard to recover.  
+* Multiple midterms which can be stressful.
+
+Overall, “hard” at UCSD usually means:
+
+* Fast pace (10 weeks is brutal)  
+* Conceptual abstraction  
+* Heavy weekly programming assignments  
+* Exams that test understanding, not memorization
+
+---
+
+## 3\) What It Takes to Be a Student (My Own Reality)
+
+What does it take? For me: discipline more than intelligence.
+
+A typical week looks like:
+
+* 12–16 units (usually four classes)  
+* 12–15 hours in lecture  
+* 4–6 hours in discussion/labs  
+* 15–25 hours of homework/programming/problem sets  
+* Club meetings (CS-related orgs, project teams)  
+* Errands, commuting across campus
+
+The biggest adjustment wasn’t difficulty, rather it was pacing. The quarter system means:
+
+* Week 3 already feels like mid-semester.  
+* Midterms start around Week 4 or 5\.  
+* Finals hit before you feel ready.
+
+One habit that helped me: Time blocking assignments early in the week, especially programming projects. If I start CSE assignments the day they’re released, my stress level drops dramatically. I constantly use my google calendar like my life depends on it.
+
+One thing I wish I did earlier: Go to office hours consistently, not just when I’m confused. Professors and TAs often explain concepts more clearly in small groups.
+
+Big Insights: Being busy all the time doesn’t mean being productive. It’s easy to spend hours “studying” without actually solving problems or coding.
+
+---
+
+## 4\) Electives and Non-CS Load
+
+Because I’m in Eighth College, I have the CCE writing sequence and breadth requirements.
+
+This year I’ve taken:
+
+* CCE 1 – Writing \+ community engagement themes.  
+* A DEI-approved humanities course, ANTH 23 which is about anthropology.  
+* A couple of GE’s, so far I’m currently in Astronomy (ASTR 10).
+
+I chose them mostly because:
+
+* They’re required.  
+* I wanted something less technical to balance CS.  
+* They fulfill university-wide requirements early.  
+* They are fun\!
+
+Do they help or hurt workload balance?: Honestly, they help mentally, but they still take time. Writing 5–7 page essays during midterm season isn’t exactly relaxing. But switching between coding and analytical writing keeps my brain from burning out in one mode.
+
+---
+
+## 5\) Specializations / Areas of Focus
+
+UCSD’s CSE department offers multiple upper-division tracks and electives, especially in:
+
+* AI / Machine Learning  
+* Systems  
+* Theory / Algorithms  
+* Security  
+* Data Science  
+* HCI (Human-Computer Interaction)
+
+As an AI major, I’ll eventually take upper-division AI courses (like machine learning and AI electives), but those don’t start until junior year in most plans.
+
+Right now, I’m leaning toward:
+
+* AI/ML, but more on the applied side.  
+* Possibly Systems, because understanding how things work under the hood feels powerful.
+
+That said, freshman year is too early to be certain. A lot of specialization happens informally too, such as through clubs, hackathons, research labs, and personal projects.
+
+---
+
+## 6\) What I’d Tell a New Freshman
+
+If you’re starting CS next term at UCSD, here’s what I’d do:
+
+1\) Start programming assignments the day they’re released. Even if you only write a few lines. The quarter system punishes procrastination.
+
+2\) Build a small study group early. Not just for homework answers, but to talk through concepts. Explaining Big-O or induction to someone else makes it stick.
+
+3\) Go to the office hours before you’re desperate. It is better to start now then never.
+
+Portfolio tip: Start a GitHub early. Even small class projects matter. Clean them up, document them, and push them. Don’t wait until junior year to “start building a portfolio.” Freshman-year data structures projects count more than you think. Also work on a resume early on.
+
+---
+
+Overall, my experience at the University of California, San Diego so far has been challenging, but not in the way I expected. It’s less about being a genius coder and more about consistency, time management, and being okay with not understanding something immediately. The work is hard. The pace is fast. But if you stay steady, it’s manageable and honestly kind of exciting as college life is exhilarating overall.
