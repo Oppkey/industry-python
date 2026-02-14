@@ -1,9 +1,19 @@
 ---
 title: "Modern Python Full-Stack Workflow"
-author: "Craig Oda"
+author:
+    name: Craig Oda
+    url: https://github.com/codetricity
+    image: assets/authors/craig.png
+    affiliation:
+        name: Oppkey
+        url: https://oppkey.com
 date: "2026-02-08"
+image: ../../assets/placeholder.png
 categories: [python]
 ---
+
+![](/assets/authors/craig.png){.author-avatar width=72 height=72}
+
 This post summarizes my full article on building enterprise-ready full-stack applications using Python and MVC architecture.
 
 **Read the full blog here:**  

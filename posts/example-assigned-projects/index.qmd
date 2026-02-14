@@ -1,6 +1,6 @@
 ---
 title: "Industry Python Special Projects with Mentorship"
-author: "Craig Oda"
+author: craig-oda
 date: "2026-01-22"
 categories: [uv, deployment, PyTorch, vector database, projects]
 ---
