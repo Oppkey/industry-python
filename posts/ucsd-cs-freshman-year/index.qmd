@@ -1,6 +1,11 @@
 ---
 title: "My Experience Taking Computer Science Courses at University of California, San Diego — So Far"
-author: "Aryhanna Pham"
+author:
+    name: "Aryhanna Pham"
+    url: https://github.com/aryhannapham
+    affiliation:
+        name: UCSD Computer Science & Engineering Department, Artificial Intelligence (CS29)
+        url: https://cse.ucsd.edu/undergraduate/bs-artificial-intelligence-0
 date: "2026-02-13"
 categories: [student, education]
 ---

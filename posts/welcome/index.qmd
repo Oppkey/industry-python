@@ -3,7 +3,6 @@ title: "Welcome To Industry Python"
 author:
   name: Craig Oda
   url: https://github.com/codetricity
-  image: assets/authors/craig.png
   affiliation:
     name: Oppkey
     url: https://oppkey.com
