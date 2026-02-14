@@ -1,9 +1,17 @@
 ---
 title: "Welcome To Industry Python"
-author: "Craig Oda"
+author:
+  name: Craig Oda
+  url: https://github.com/codetricity
+  image: assets/authors/craig.png
+  affiliation:
+    name: Oppkey
+    url: https://oppkey.com
 date: "2026-01-11"
+image: kristi-and-team.png
 categories: [news]
 ---
+![](/assets/authors/craig.png){.author-avatar width=72 height=72}
 
 A [free, beginner-friendly course](https://industry-python.thinkific.com/) for high-school students and early CS
 learners—learn Python by building real, visual apps and finish with

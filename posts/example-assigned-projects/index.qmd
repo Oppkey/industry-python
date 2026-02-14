@@ -1,9 +1,16 @@
 ---
 title: "Industry Python Special Projects with Mentorship"
-author: craig-oda
+author:
+  name: Craig Oda
+  url: https://github.com/codetricity
+  affiliation:
+    name: Oppkey
+    url: https://oppkey.com
 date: "2026-01-22"
+image: ../../assets/placeholder.png
 categories: [uv, deployment, PyTorch, vector database, projects]
 ---
+![](/assets/authors/craig.png){.author-avatar width=72 height=72}
 
 A small group of elite students are working with Jesse Casman, president of Oppkey, in
 one-on-one mentorships to explore subjects they are interested in.
