@@ -3,12 +3,12 @@ title: "The Hidden Challenge of a CS Degree at Many UC Schools: The Quarter Syst
 author:
   name: Jesse Casman
   url: https://github.com/jcasman
-  image: assets/authors/jesse.jpg
+  image: assets/authors/jesse.png
   affiliation:
     name: Oppkey
     url: https://oppkey.com
 date: "2026-03-16"
-image: ../../assets/jesse.jpg
+image: comparison.png
 categories: [degree, schools, internships]
 ---
 
