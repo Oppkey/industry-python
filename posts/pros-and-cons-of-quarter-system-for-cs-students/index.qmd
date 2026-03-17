@@ -16,7 +16,7 @@ categories: [degree, schools, internships]
 
 Which is better for young CS students looking to get internships: The semester system (16-week blocks) or the quarter system (10-week blocks)?
 
----
+***
 When people talk about how hard computer science is, they usually mention algorithms, debugging, or long nights spent chasing down bugs in a programming assignment.
 
 But students at many University of California campuses face an additional challenge that rarely gets discussed: the academic calendar itself.
