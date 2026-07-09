@@ -1,16 +1,19 @@
 ---
 title: "🚐 Church Transportation System"
-author: "Ethan Kim"
+author: 
+  name: "Ethan Kim"
+  url: https://github.com/gilaze
+  affiliation:
+    name: "UC Berkeley Data Science Department"
+    url: https://cdss.berkeley.edu/dsus/academics/data-science-major
 date: "2026-07-09"
 categories: [student, project]
 ---
+![](/assets/authors/ethan.jpg){.author-avatar width=72 height=72}
 Check out the website here:
-https://church-rides-gilaze7393-of35ddsq.leapcell.dev
+<https://church-rides-gilaze7393-of35ddsq.leapcell.dev>
 
 
-My blog of this project:
-
-# 🚐 Church Transportation System
 **A streamlined, automated solution for church shuttle management.**
 
 ---
